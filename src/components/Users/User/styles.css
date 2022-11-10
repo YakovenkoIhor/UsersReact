@@ -1,0 +1,11 @@
+.User-item {
+  margin: 15px auto;
+  background: pink;
+  max-width: 400px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+span {
+font-weight: bold;
+}

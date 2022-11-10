@@ -1,0 +1,8 @@
+h1 {
+  margin: 0 auto;
+  text-align: center;
+}
+div {
+  background: #aca9a9;
+}
+ol, ul { list-style: none; }
